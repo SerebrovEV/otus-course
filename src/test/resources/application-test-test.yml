@@ -1,0 +1,8 @@
+info:
+  file: test
+  type: .csv
+  delimiter: ","
+language:
+  types: default, ru-RU
+number:
+  pass_test: 8

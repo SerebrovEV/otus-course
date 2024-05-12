@@ -1,0 +1,11 @@
+spring:
+  messages:
+    basename: i18n/messages
+info:
+  delimiter: ","
+  file: questions
+  type: .csv
+language:
+  types: default, ru-RU
+number:
+  pass_test: 8
